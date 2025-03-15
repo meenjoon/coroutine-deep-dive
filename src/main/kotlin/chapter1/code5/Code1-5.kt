@@ -1,4 +1,4 @@
-package chatper1.code5
+package chapter1.code5
 
 import kotlin.concurrent.thread
 

@@ -1,4 +1,4 @@
-package chatper1.code3
+package chapter1.code3
 
 class ExampleThread : Thread() {
     override fun run() {

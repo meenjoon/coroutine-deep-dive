@@ -1,4 +1,4 @@
-package chatper1.code10
+package chapter1.code10
 
 import java.util.concurrent.CompletableFuture
 import java.util.concurrent.Executors

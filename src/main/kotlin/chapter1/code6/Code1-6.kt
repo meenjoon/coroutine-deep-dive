@@ -1,4 +1,4 @@
-package chatper1.code6
+package chapter1.code6
 
 import java.util.concurrent.ExecutorService
 import java.util.concurrent.Executors

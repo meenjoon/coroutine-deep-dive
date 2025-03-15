@@ -1,6 +1,6 @@
-package chatper1.code4
+package chapter1.code4
 
-import chatper1.code3.ExampleThread
+import chapter1.code3.ExampleThread
 
 fun main() {
   println("[${Thread.currentThread().name}] 메인 스레드 시작")

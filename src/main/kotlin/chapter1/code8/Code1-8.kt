@@ -1,4 +1,4 @@
-package chatper1.code8
+package chapter1.code8
 
 import java.util.concurrent.*
 
